@@ -1,2 +1,2 @@
-# HTML-funnydogresume
+# HTML-dogresume
 DOG RESUME
